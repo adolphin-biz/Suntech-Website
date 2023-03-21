@@ -1,1 +1,1 @@
-Sitemap: https://www.suntech.group.nl.am/sitemap.xml
+Sitemap: http://www.suntech.group.nl.am/sitemap.xml
